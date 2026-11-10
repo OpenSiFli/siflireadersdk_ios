@@ -1,0 +1,6 @@
+framework module SifliReaderOCSDK {
+  umbrella header "SIfliReaderOCSDK.h"
+  export *
+
+  module * { export * }
+}
