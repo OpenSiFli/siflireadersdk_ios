@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/SFReaderManager.h</key>
 		<data>
-		tiRWStIvDHxpUU55wTqEQQE/EBU=
+		FFyOHx+jp0sR3vI5Jzwm7zSoZtI=
 		</data>
 		<key>Headers/SFReaderMemGetResponsePacket.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/SFReaderPacketBase.h</key>
 		<data>
-		YqJra5pG61lQ2wGzfr+LFfhyTOo=
+		aC44Ieb3S81xxPxOQr6qES7vBy8=
 		</data>
 		<key>Headers/SFReaderResponsePacket.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/VersionConstant.h</key>
 		<data>
-		euuCKJz9zT/IAi55l3SFzewNoaM=
+		IKyCf+boNBv09C3xQ/qqGvf0Xik=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -73,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y2WPaEOa1BZTgyLq54U4cEF4mU6Adihqgo9AUhvfNnI=
+			JqsKXgKPRtzYoTkZMESza3OEDZrBowOGNAZKXpZKofk=
 			</data>
 		</dict>
 		<key>Headers/SFReaderMemGetResponsePacket.h</key>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dVcCjlc9d7u+D3YqcNZMIMm8JcihszOIVJvy3Y7Wevw=
+			X2SYGzkkiPr4PkQthKAfj+GGScF3DIfEDHe4tWjUTBQ=
 			</data>
 		</dict>
 		<key>Headers/SFReaderResponsePacket.h</key>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RvxZBR5oqEoP8LLi29yTB5XpCpBCdtHEsXV9ejO6QvM=
+			QUJuFymkTDbi5JIQ6Kv4uVdToH+IOFHBS/9srLZG434=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

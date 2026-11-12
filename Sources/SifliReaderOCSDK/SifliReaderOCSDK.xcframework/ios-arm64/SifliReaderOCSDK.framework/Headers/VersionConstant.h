@@ -7,6 +7,6 @@
 
 #ifndef VersionConstant_h
 #define VersionConstant_h
-
-static NSString * const kSFReaderSDKVersion = @"2.0.1";
+///2.0.2 增加send finsh 命令
+static NSString * const kSFReaderSDKVersion = @"2.0.2";
 #endif /* VersionConstant_h */

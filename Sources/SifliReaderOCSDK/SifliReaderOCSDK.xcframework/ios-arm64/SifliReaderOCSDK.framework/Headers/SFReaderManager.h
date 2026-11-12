@@ -146,6 +146,13 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)setTxPowerRequestWithTxType:(SFReaderTxType)txType
                               level:(uint8_t)level
                    targetIdentifier:(NSString *)targetIdentifier;
+
+
+/// 发送finsh命令
+/// - Parameters:
+///   - cmd: finsh命令
+///   - targetIdentifier: 设备uuid
+- (void)sendFinishCommand:(NSString *)cmd identifier:(NSString *)targetIdentifier;
  
 @end
 
